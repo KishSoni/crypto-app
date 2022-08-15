@@ -18,15 +18,15 @@
 }
 
 .coin-name {
-    margin-left: -2rem;
+    margin-left: -1rem;
 }
 
 .coin-price {
-    margin-left: 1rem;
+    margin-left: -1rem;
 }
 
 .price-change {
-    margin-right: 1rem;
+    margin-right: -1rem;
 }
 
 .coin-row {
